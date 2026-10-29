@@ -34,7 +34,7 @@ El flujo de una petición en nuestra aplicación es el siguiente:
 
 ### 3.1. Estructura de Carpetas
 Organización de los archivos en el entorno de desarrollo (VS Code).
-![Estructura de carpetas](capturas/captura_01.png)
+![Estructura de carpetas](capturas/captura_09.png)
 
 ### 3.2. Despliegue PHP y Respuesta HTTP
 Formulario HTML, tabla de registros generada a partir de la sesión `$_SESSION`, y respuesta HTTP (Status 200 OK).
@@ -57,4 +57,5 @@ Formulario implementado en JSP con almacenamiento en `HttpSession` y su respecti
 Registro de peticiones en las consolas de los servidores (PHP Development Server y Apache Tomcat) e inspección de red con la pestaña Network.
 
 ![Logs PHP](capturas/captura_02.png)
-![Network HTTP](capturas/captura_03.png)
+![LOGS](capturas/captura_03.png)
+![Network HTTP](capturas/captura_01.png)
